@@ -7,7 +7,7 @@ Essential:
 	+	Create repository and branches [Development, Testing, Staging, Production].	[✅]
 	+	Create Firebase projects and environments [Same as above].			[✅]
 	+	Code basic fitness webpage in JS that displays BMI.				[]
-	+	Set up Firebase Hosting.							[]
+	+	Set up Firebase Hosting.							[✅]
 	+	Set up Jenkins.									[]
 
 Optional:
