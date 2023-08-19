@@ -27,7 +27,7 @@ Functionality requirements:
 		textboxes. The user must be able to click a button called "Calculate".
    	+	When clicking the "Calculate" button, the user must be able to see their Body Mass
 		Index and a graph that shows them their condition [Malnourished, Underweight, Fit,
-		Overweight, Obese]. 
+		Overweight, Obese, Morbidly Obese]. 
 
 Menu page requirements:
 
